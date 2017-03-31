@@ -9,4 +9,5 @@
 * [设置展示列](she-zhi-zhan-shi-lie.md)
 * [表格](biao-ge.md)
 * [分页显示](fen-ye-xian-shi.md)
+* [详情页](xiang-qing-ye.md)
 
