@@ -8,4 +8,5 @@
 * [按钮](an-niu.md)
 * [设置展示列](she-zhi-zhan-shi-lie.md)
 * [表格](biao-ge.md)
+* [分页显示](fen-ye-xian-shi.md)
 
