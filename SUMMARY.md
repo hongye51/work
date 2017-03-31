@@ -6,4 +6,5 @@
 * [面包屑](mian-bao-xie.md)
 * [表单查询模块](biao-dan-cha-xun-mo-kuai.md)
 * [按钮](an-niu.md)
+* [设置展示列](she-zhi-zhan-shi-lie.md)
 
