@@ -4,7 +4,7 @@
 
 单位：样式名称：text-unit，单位与前面文字距离2px，颜色为.text-muted的颜色\#707070
 
-表单必填项：样式名称：required，表单项名称前面会加上红色\*
+表单必填项：样式名称：required，用于 label 上，表单项名称前面会加上红色\*
 
 上边距/下边距：margin-top-base/margin-top-small/margin-bottom-base/margin-bottom-smal
 
