@@ -1,8 +1,8 @@
-## 表格 {#id-%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83css%E6%A0%B7%E5%BC%8F%E5%88%97%E8%A1%A8-%E8%AE%BE%E7%BD%AE%E5%B1%95%E7%A4%BA%E5%88%971}
+# 表格
 
 ![](/assets/66.jpg)
 
-操作列按钮统一用a标签，外层td上加上样式table-operation控制a标签样式。产品信息列结构用dl，见下面代码。
+操作列按钮统一用 a 标签，外层 td 上加上样式 table-operation 控制 a 标签样式。产品信息列结构用 dl，见下面代码。
 
 ```
 <table class="table table-bordered table-hover">
