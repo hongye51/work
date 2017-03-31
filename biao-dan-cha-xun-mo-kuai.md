@@ -1,8 +1,16 @@
-## 表单查询模块 {#id-%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83css%E6%A0%B7%E5%BC%8F%E5%88%97%E8%A1%A8-%E8%A1%A8%E5%8D%95%E6%9F%A5%E8%AF%A2%E6%A8%A1%E5%9D%97}
+# 表单查询模块
 
 ![](/assets/2.jpg)
 
-查询模块添加外边框加上form-collapse，固定宽度加上form-col-fixed，错误提示在form-group后面添加样式has-error，如果是宽度比较大的比如下图上传时间，在form-group后添加样式form-item-lg使其占两列位置，textarea在form-group后面加上form-textarea，使文字和textarea居上显示。下面代码里罗列了文本框，下拉框，时间选择控件，单选组，文本域几种情况
+查询模块添加外边框加上form-collapse，带查询标题里层加上&lt;div class="form-search"&gt;查询&lt;i class="fa fa-angle-down"&gt;&lt;/i&gt;&lt;/div&gt;
+
+查询项固定宽度加上 form-col-fixed，定义了查询项宽度是 320px，如果查询项宽度比较大，比如上传时间，在form-group后添加样式 form-item-lg 使其占两列位置，还可以添加 form-item-xlg 使其100%宽度
+
+错误提示在 form-group 后面添加样式 has-error
+
+textarea 在 form-group 后面加上 form-textarea，使文字和 textarea 居上显示
+
+下面代码里罗列了文本框，下拉框，时间选择控件，单选组，文本域几种情况
 
 ```
 <form class="form-inline form-collapse form-col-fixed">
