@@ -1,4 +1,4 @@
-## 按钮 {#id-%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83css%E6%A0%B7%E5%BC%8F%E5%88%97%E8%A1%A8-%E6%8C%89%E9%92%AE}
+# 按钮
 
 ![](/assets/44}.bmp)
 
