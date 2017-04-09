@@ -2,7 +2,7 @@
 
 ![](/assets/1111111111.png)
 
-```
+```markdown
 <nav class="text-center">
   <ul class="pagination">
     <li>
