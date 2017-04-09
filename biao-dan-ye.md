@@ -4,7 +4,7 @@
 
 ![](/assets/11111}.jpg)
 
-```
+```markdown
 <form class="form-horizontal form-label-fixed">
   <fieldset class="details-block">
     <legend class="title clearfix">商品基本内容<i class="fa fa-angle-down"></i></legend>
@@ -120,7 +120,7 @@
 
 ![](/assets/2222222222.png)
 
-```
+```markdown
 <div class="form-footer">
   <button type="button" class="btn btn-primary btn-base">发 布</button>
   <button type="button" class="btn btn-info btn-base">编 辑</button>
