@@ -2,7 +2,7 @@
 
 ![](/assets/1.bmp)没有右侧的返回和全屏按钮直接写面包屑
 
-```
+```markdown
 <div class="crumbs">  
   <ol class="breadcrumb">
     <li>首页</li>
@@ -12,7 +12,7 @@
 </div>
 ```
 
-```
+```markdown
 <div class="crumbs">
   <ol class="breadcrumb">
     <li>首页</li>
