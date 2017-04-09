@@ -2,7 +2,7 @@
 
 ![](/assets/1.png)
 
-```
+```markdown
 <fieldset class="details-block">
   <legend class="title clearfix">设置展示列<i class="fa fa-angle-down"></i></legend>
   <div class="col-md-12">
@@ -22,7 +22,7 @@
 
 col-pannel添加外边框
 
-```
+```markdown
 <fieldset class="details-block">
   <legend class="title clearfix">设置展示列<i class="fa fa-angle-down"></i></legend>
      <dl class="dl-horizontal col-pannel">
