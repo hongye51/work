@@ -12,7 +12,7 @@ textarea 在 form-group 后面加上 form-textarea，使文字和 textarea 居�
 
 下面代码里罗列了文本框，下拉框，时间选择控件，单选组，文本域几种情况
 
-```
+```markdown
 <form class="form-inline form-collapse form-col-fixed">
    <div class="form-search">查询<i class="fa fa-angle-down"></i></div>
    <div class="form-group has-error">
