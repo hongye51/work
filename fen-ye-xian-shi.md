@@ -2,12 +2,12 @@
 
 ![](/assets/1111111111.png)
 
-```markdown
+```html
 <nav class="text-center">
   <ul class="pagination">
     <li>
       <div class="pull-left page-count">
-        共 <span class="text-info">725</span> 条记录，每页显示 
+        共 <span class="text-info">725</span> 条记录，每页显示
         <input class="form-control" type="text" value="8"/> 条
       </div>
     </li>

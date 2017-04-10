@@ -2,8 +2,8 @@
 
 ![](/assets/1.bmp)没有右侧的返回和全屏按钮直接写面包屑
 
-```markdown
-<div class="crumbs">  
+```html
+<div class="crumbs">
   <ol class="breadcrumb">
     <li>首页</li>
     <li>仓库服务</li>
@@ -12,7 +12,7 @@
 </div>
 ```
 
-```markdown
+```html
 <div class="crumbs">
   <ol class="breadcrumb">
     <li>首页</li>

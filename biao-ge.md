@@ -4,7 +4,7 @@
 
 操作列按钮统一用 a 标签，外层 td 上加上样式 table-operation 控制 a 标签样式。产品信息列结构用 dl，见下面代码。
 
-```markdown
+```html
 <table class="table table-bordered table-hover">
   <thead>
     <tr>

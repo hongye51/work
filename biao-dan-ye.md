@@ -4,7 +4,7 @@
 
 ![](/assets/11111}.jpg)
 
-```markdown
+```html
 <form class="form-horizontal form-label-fixed">
   <fieldset class="details-block">
     <legend class="title clearfix">商品基本内容<i class="fa fa-angle-down"></i></legend>

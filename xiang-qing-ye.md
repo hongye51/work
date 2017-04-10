@@ -6,7 +6,7 @@
 
 ![](/assets/999.jpg)
 
-```markdown
+```html
 <fieldset class="details-block">
    <legend class="title clearfix">商品基本内容<i class="fa fa-angle-down"></i></legend>
    <dl class="dl-horizontal">
@@ -22,10 +22,10 @@
       <dt>运送备注：</dt>
       <dd>
         <label class="radio-inline">
-          <input type="radio" name="inlineRadioOptions" value="option1" checked="checked" disabled="disabled" /> 航空禁运 
+          <input type="radio" name="inlineRadioOptions" value="option1" checked="checked" disabled="disabled" /> 航空禁运
         </label>
         <label class="radio-inline">
-          <input type="radio" name="inlineRadioOptions" value="option2" disabled="disabled" /> 易碎品 
+          <input type="radio" name="inlineRadioOptions" value="option2" disabled="disabled" /> 易碎品
         </label>
         ......
       </dd>
@@ -61,7 +61,7 @@
 
 ## 详情页有表单展示![](/assets/99999.bmp) {#id-%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83css%E6%A0%B7%E5%BC%8F%E5%88%97%E8%A1%A8-%E8%AF%A6%E6%83%85%E9%A1%B5%E6%9C%89%E8%A1%A8%E5%8D%95%E5%B1%95%E7%A4%BA}
 
-```markdown
+```html
 <fieldset class="details-block">
   <legend class="title clearfix">其他<i class="fa fa-angle-down"></i></legend>
   <form class="form-horizontal form-label-fixed">

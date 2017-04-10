@@ -1,8 +1,8 @@
 # 按钮
 
 ![](/assets/44}.bmp)
-
-```markdown
+class: .table-toolbar,
+```html
 <div class="table-toolbar clearfix">
    <div class="primary pull-left">
       <button type="button" class="btn btn-info btn-sm  btn-base"><i class="fa fa-plus-circle"></i>新 建</button>
