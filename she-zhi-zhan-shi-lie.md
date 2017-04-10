@@ -1,7 +1,7 @@
 # 设置展示列1
 
 ![](/assets/1.png)
-
+<font color=#d04d53>class: .details-block</font>
 ```html
 <fieldset class="details-block">
   <legend class="title clearfix">设置展示列<i class="fa fa-angle-down"></i></legend>

@@ -2,15 +2,7 @@
 
 ![](/assets/2.jpg)
 
-查询模块添加外边框加上form-collapse，带查询标题里层加上&lt;div class="form-search"&gt;查询&lt;i class="fa fa-angle-down"&gt;&lt;/i&gt;&lt;/div&gt;
-
-查询项固定宽度加上 form-col-fixed，定义了查询项宽度是 320px，如果查询项宽度比较大，比如上传时间，在form-group后添加样式 form-item-lg 使其占两列位置，还可以添加 form-item-xlg 使其100%宽度
-
-错误提示在 form-group 后面添加样式 has-error
-
-textarea 在 form-group 后面加上 form-textarea，使文字和 textarea 居上显示
-
-下面代码里罗列了文本框，下拉框，时间选择控件，单选组，文本域几种情况
+<font color=#d04d53>class: .form-collapse, .form-search, .form-col-fixed, .form-item-lg, .form-item-xlg, form-textarea</font>
 
 ```html
 <form class="form-inline form-collapse form-col-fixed">

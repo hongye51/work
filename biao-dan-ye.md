@@ -3,7 +3,7 @@
 ## 表单内容 {#id-%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83css%E6%A0%B7%E5%BC%8F%E5%88%97%E8%A1%A8-%E8%A1%A8%E5%8D%95%E5%86%85%E5%AE%B9}
 
 ![](/assets/11111}.jpg)
-
+<font color=#d04d53>class: .form-label-fixed, .details-block</font>
 ```html
 <form class="form-horizontal form-label-fixed">
   <fieldset class="details-block">

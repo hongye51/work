@@ -1,7 +1,7 @@
 # 按钮
 
 ![](/assets/44}.bmp)
-class: .table-toolbar,
+<font color=#d04d53>class: .table-toolbar, primary, secondary</font>
 ```html
 <div class="table-toolbar clearfix">
    <div class="primary pull-left">
