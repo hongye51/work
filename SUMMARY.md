@@ -2,7 +2,6 @@
 
 * [修改记录](README.md)
 * [新增样式列表](style-list.md)
-* [基础样式](basic-style.md)
 * [面包屑](breadcrumbs.md)
 * [表单查询模块](form-search.md)
 * [按钮](button-list.md)
