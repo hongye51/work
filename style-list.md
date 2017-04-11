@@ -5,6 +5,7 @@
 | form-collapse | 用于列表页表单查询模块最外层，定义了该模块的边框和内边距 |
 | form-search | 用于列表页表单查询模块上标题“查询”样式 |
 | form-col-fixed | 用于列表页表单查询模块最外层，设置了表单每个查询项固定宽度 320px |
+| icon-collapse | 展开图标 |
 | form-item-lg | 用于设置了表单项比较长的宽度为648px，例如上传时间，放在 form-group 后面，父层须有 form-col-fixed 样式 |
 | form-item-xlg | 设置了表单项很长的宽度为100%，通栏，放在 form-group 后面，父层须有 form-col-fixed 样式 |
 | form-textarea | 用于查询模块有文本域的情况，放在 form-group 后面，设置列文本域左侧文字上对齐 |
