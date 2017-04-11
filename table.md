@@ -20,8 +20,7 @@
   <tbody>
      <tr>
        <td><input type="checkbox" /></td>
-       <td class="has-icon">EST15135444<i class="fa fa-copy"></i>
-       </td>
+       <td class="has-icon">EST15135444<i class="fa fa-copy"></i></td>
        <td><span class="text-muted">新建</span></td>
        <td>白云仓库</td>
        <td>

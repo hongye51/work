@@ -55,7 +55,7 @@
     <div class="form-group">
       <label class="col-md-2 control-label">运送备注：</label>
       <div class="col-md-10">
-        <label class="radio-inline"><input type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1"> 航空禁运 </label>
+        <label class="radio-inline"><input type="radio" name="radio1" value="option1"> 航空禁运</label>
       </div>
     </div>
     <div class="form-group">

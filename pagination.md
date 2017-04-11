@@ -1,7 +1,7 @@
 ## 分页显示 {#id-%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83css%E6%A0%B7%E5%BC%8F%E5%88%97%E8%A1%A8-%E5%88%86%E9%A1%B5%E6%98%BE%E7%A4%BA}
 
 ![](/assets/1111111111.png)
-
+<font color=#d04d53>class: .page-count, .page-to-num, .page-ellipsis</font>
 ```html
 <nav class="text-center">
   <ul class="pagination">
