@@ -6,7 +6,7 @@
 
 ```html
 <form class="form-inline form-collapse form-col-fixed">
-   <div class="form-search">查询<i class="fa fa-angle-down"></i></div>
+   <div class="form-search">查询<span class="icon-collapse"></span></div>
    <div class="form-group has-error">
       <label class="control-label">常态合作编码</label>
       <input type="text" class="form-control" placeholder="">
