@@ -1,6 +1,7 @@
 # 面包屑
 
-![](/assets/1.bmp)class: .crumbs
+![](/assets/1.bmp)
+<font color=#d04d53>class: .crumbs</font>
 
 没有右侧的返回和全屏按钮直接写面包屑
 

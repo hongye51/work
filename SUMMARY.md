@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [修改记录](README.md)
 * [新增样式列表](style-list.md)
 * [基础样式](basic-style.md)
 * [面包屑](breadcrumbs.md)

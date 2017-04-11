@@ -12,47 +12,32 @@
    <dl class="dl-horizontal">
       <dt>名称：</dt>
       <dd>阿玛尼女装服饰</dd>
-      <dt>所选分类：</dt>
-      <dd>孕婴童用品 > 母婴日用品 > 宝宝护理用品</dd>
       <dt>尺寸：</dt>
-      <dd>
-        <div>20*20*20mm</div>
-        <div>20*20*20mm</div>
-      </dd>
       <dt>运送备注：</dt>
       <dd>
         <label class="radio-inline">
           <input type="radio" name="inlineRadioOptions" value="option1" checked="checked" disabled="disabled" /> 航空禁运
         </label>
         <label class="radio-inline">
-          <input type="radio" name="inlineRadioOptions" value="option2" disabled="disabled" /> 易碎品
+          <input type="radio" name="inlineRadioOptions" value="option1" checked="checked" disabled="disabled" /> 航空禁运
         </label>
-        ......
       </dd>
       <dt>尺码表：</dt>
       <dd>
         <div class="col-md-6 row">
           <p class="margin-bottom-small">尺码表类型：标准<span class="pull-right">最后编辑时间：2016-09-12 09:45:40</span></p>
-           <table class="table table-bordered">
-              <thead>
-                <tr>
-                  <th>尺码</th>
-                  <th>型号</th>
-                  <th>衣长</th>
-                  <th>胸围</th>
-                  <th>领围</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>S</td>
-                  <td>EST15135444</td>
-                  <td>100</td>
-                  <td>97</td>
-                  <td>40</td>
-                </tr>
-              </tbody>
-           </table>
+          <table class="table table-bordered">
+            <thead>
+              <tr>
+                ...
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                ...
+              </tr>
+            </tbody>
+          </table>
          </div>
        </dd>
     </dl>
@@ -65,10 +50,6 @@
 <fieldset class="details-block">
   <legend class="title clearfix">其他<span class="icon-collapse"></span></legend>
   <form class="form-horizontal form-label-fixed">
-    <div class="form-group">
-      <label class="col-sm-2 control-label">分类：</label>
-      <div class="col-sm-6 text">孕婴童用品 > 母婴日用品 > 宝宝护理用品</div>
-    </div>
     <div class="form-group">
       <label class="col-sm-2 control-label">IQC特殊要求：</label>
       <div class="col-sm-6">
