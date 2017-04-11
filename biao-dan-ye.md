@@ -7,7 +7,7 @@
 ```html
 <form class="form-horizontal form-label-fixed">
   <fieldset class="details-block">
-    <legend class="title clearfix">商品基本内容<i class="fa fa-angle-down"></i></legend>
+    <legend class="title clearfix">商品基本内容<span class="icon-collapse"></span></legend>
     <div class="form-group">
       <label class="col-md-2 control-label">供应商名称：</label>
       <div class="col-md-6 text">五二二供应商</div>
