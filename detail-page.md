@@ -8,7 +8,7 @@
 
 ```html
 <fieldset class="details-block">
-   <legend class="title clearfix">商品基本内容<i class="fa fa-angle-down"></i></legend>
+   <legend class="title clearfix">商品基本内容<span class="icon-collapse"></span></legend>
    <dl class="dl-horizontal">
       <dt>名称：</dt>
       <dd>阿玛尼女装服饰</dd>
@@ -63,7 +63,7 @@
 
 ```html
 <fieldset class="details-block">
-  <legend class="title clearfix">其他<i class="fa fa-angle-down"></i></legend>
+  <legend class="title clearfix">其他<span class="icon-collapse"></span></legend>
   <form class="form-horizontal form-label-fixed">
     <div class="form-group">
       <label class="col-sm-2 control-label">分类：</label>

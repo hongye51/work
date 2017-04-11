@@ -1,6 +1,8 @@
 # 面包屑
 
-![](/assets/1.bmp)没有右侧的返回和全屏按钮直接写面包屑
+![](/assets/1.bmp)class: .crumbs
+
+没有右侧的返回和全屏按钮直接写面包屑
 
 ```html
 <div class="crumbs">
@@ -11,7 +13,9 @@
   </ol>
 </div>
 ```
+
 有右侧的返回和全屏按钮直接写面包屑
+
 ```html
 <div class="crumbs">
   <ol class="breadcrumb">
