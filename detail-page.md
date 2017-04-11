@@ -16,16 +16,18 @@
       <dt>运送备注：</dt>
       <dd>
         <label class="radio-inline">
-          <input type="radio" name="inlineRadioOptions" value="option1" checked="checked" disabled="disabled" /> 航空禁运
+          <input type="radio" name="radio1" checked="checked" disabled="disabled" /> 航空禁运
         </label>
         <label class="radio-inline">
-          <input type="radio" name="inlineRadioOptions" value="option1" checked="checked" disabled="disabled" /> 航空禁运
+          <input type="radio" name="radio1" disabled="disabled" /> 航空禁运
         </label>
       </dd>
       <dt>尺码表：</dt>
       <dd>
         <div class="col-md-6 row">
-          <p class="margin-bottom-small">尺码表类型：标准<span class="pull-right">最后编辑时间：2016-09-12 09:45:40</span></p>
+          <p class="margin-bottom-small">尺码表类型：标准
+            <span class="pull-right">最后编辑时间：2016-09-12 09:45:40</span>
+          </p>
           <table class="table table-bordered">
             <thead>
               <tr>

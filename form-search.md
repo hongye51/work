@@ -2,7 +2,7 @@
 
 ![](/assets/2.jpg)
 
-## 基础结构
+### 基础结构
 <font color=#d04d53>class: .form-collapse, .form-search, .form-col-fixed</font>
 ```html
 <form class="form-inline form-collapse form-col-fixed">
@@ -32,7 +32,7 @@
   </div>
 </form>
 ```
-## 列比较长结构
+### 表单项比较长结构
 <font color=#d04d53>class: .form-item-lg, .form-item-xlg</font>
 ```html
 <div class="form-group form-item-lg">
@@ -54,7 +54,7 @@
 </div>
 ```
 
-## 列带文本域结构
+### 表单项带文本域结构
 <font color=#d04d53>class: .form-textarea</font>
 ```html
 <div class="form-group form-textarea">
@@ -63,7 +63,7 @@
 </div>
 ```
 
-## 列带错误提示结构
+### 表单项带错误提示结构
 ```html
 <div class="form-group has-error">
   <label class="control-label">常态合作编码</label>

@@ -20,8 +20,7 @@
 
 ![](/assets/1-%281%29.jpg)
 
-col-pannel添加外边框
-
+<font color=#d04d53>class: .details-block, .col-pannel</font>
 ```html
 <fieldset class="details-block">
   <legend class="title clearfix">设置展示列<span class="icon-collapse"></span></legend>

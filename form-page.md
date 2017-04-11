@@ -18,100 +18,85 @@
       <div class="col-md-4 margin-top-small"><span>*15字以内</span></div>
     </div>
     <div class="form-group">
-       <label class="col-md-2 control-label required">品牌：</label>
-       <div class="col-md-3">
-         <select name="" id="" class="form-control">
-           <option value="">请选择</option>
-         </select>
-       </div>
-    </div>
-    <div class="form-group">
-       <label class="col-md-2 control-label">尺寸：</label>
-       <div class="col-md-10">
-         <div class="form-inline margin-bottom-base">
-            <div class="input-group">
-               <div class="input-group-addon">长</div>
-               <input type="text" class="form-control input-short">
-            </div>
-            <div class="input-group">
-               <div class="input-group-addon">宽</div>
-               <input type="text" class="form-control input-short">
-            </div>
-            <div class="input-group">
-               <div class="input-group-addon">高</div>
-               <input type="text" class="form-control input-short">
-            </div>
-            <span>(单位：mm)</span>
-         </div>
-         <div class="form-inline margin-bottom-base">
-            <div class="input-group">
-               <div class="input-group-addon">体积</div>
-               <input type="text" class="form-control">
-            </div>
-            <span>(单位：mm)</span>
-         </div>
-       </div>
-    </div>
-    <div class="form-group">
-        <label class="col-md-2 control-label">运送备注：</label>
-        <div class="col-md-10">
-           <label class="radio-inline"><input type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1"> 航空禁运 </label>
-        </div>
-     </div>
-     <div class="form-group">
-        <label class="col-md-2 control-label">颜色：</label>
-        <div class="col-md-10">
-           <div class="row">
-              <div class="col-md-2">
-                 <select name="" id="" class="form-control">
-                   <option value="">请选择</option>
-                 </select>
-              </div>
-              <div class="col-md-2">
-                <input type="text" class="form-control" placeholder="别名" />
-              </div>
-           </div>
-        </div>
-    </div>
-    <div class="form-group">
-        <label class="col-md-2 control-label">尺码表：</label>
-        <div class="col-md-10">
-           <div class="row">
-              <div class="col-md-2">
-                <select name="" id="" class="form-control">
-                  <option value="">请选择</option>
-                </select>
-              </div>
-              <div class="col-md-6">
-                 <button type="button" class="btn btn-info btn-base">新建尺码模板</button>
-                 <button type="button" class="btn btn-info btn-base">管理尺码模板</button>
-              </div>
-           </div>
-           <div class="col-md-6 row margin-top-base">
-              <p class="margin-bottom-small">尺码表类型：标准<span class="pull-right">最后编辑时间：2016-09-12 09:45:40</span></p>
-              <table class="table table-bordered">
-                <thead>
-                  <tr>
-                    <th>尺码</th>
-                      <th>型号</th>
-                      <th>衣长</th>
-                      <th>胸围</th>
-                      <th>领围</th>
-                  </tr>
-                  </thead>
-                  <tbody>
-                     <tr>
-                       <td>S</td>
-                       <td>EST15135444</td>
-                       <td>100</td>
-                       <td>97</td>
-                       <td>40</td>
-                    </tr>
-                  </tbody>
-                </table>
-           </div>
-         </div>
+      <label class="col-md-2 control-label required">品牌：</label>
+      <div class="col-md-3">
+        <select name="" id="" class="form-control">
+          <option value="">请选择</option>
+        </select>
       </div>
+    </div>
+    <div class="form-group">
+      <label class="col-md-2 control-label">尺寸：</label>
+      <div class="col-md-10">
+        <div class="form-inline margin-bottom-base">
+          <div class="input-group">
+            <div class="input-group-addon">长</div>
+            <input type="text" class="form-control input-short">
+          </div>
+          <div class="input-group">
+            <div class="input-group-addon">宽</div>
+            <input type="text" class="form-control input-short">
+          </div>
+          <div class="input-group">
+            <div class="input-group-addon">高</div>
+            <input type="text" class="form-control input-short">
+          </div>
+          <span>(单位：mm)</span>
+        </div>
+        <div class="form-inline margin-bottom-base">
+          <div class="input-group">
+            <div class="input-group-addon">体积</div>
+            <input type="text" class="form-control">
+          </div>
+          <span>(单位：mm)</span>
+        </div>
+      </div>
+    </div>
+    <div class="form-group">
+      <label class="col-md-2 control-label">运送备注：</label>
+      <div class="col-md-10">
+        <label class="radio-inline"><input type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1"> 航空禁运 </label>
+      </div>
+    </div>
+    <div class="form-group">
+      <label class="col-md-2 control-label">颜色：</label>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-md-2">
+            <select name="" id="" class="form-control">
+              <option value="">请选择</option>
+            </select>
+          </div>
+          <div class="col-md-2">
+            <input type="text" class="form-control" placeholder="别名" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="form-group">
+      <label class="col-md-2 control-label">尺码表：</label>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-md-2">
+            <select name="" id="" class="form-control">
+              <option value="">请选择</option>
+            </select>
+          </div>
+          <div class="col-md-6">
+            <button type="button" class="btn btn-info btn-base">新建尺码模板</button>
+            <button type="button" class="btn btn-info btn-base">管理尺码模板</button>
+          </div>
+        </div>
+        <div class="col-md-6 row margin-top-base">
+          <p class="margin-bottom-small">尺码表类型：标准
+            <span class="pull-right">最后编辑时间：2016-09-12 09:45:40</span>
+          </p>
+          <table class="table table-bordered">
+          ...
+          </table>
+        </div>
+      </div>
+    </div>
   </fieldset>
 </form>
 ```
