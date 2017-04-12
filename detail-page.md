@@ -1,6 +1,6 @@
 # 详情页 {#id-%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83css%E6%A0%B7%E5%BC%8F%E5%88%97%E8%A1%A8-%E8%AF%A6%E6%83%85%E9%A1%B5}
 
-## 详情页无表单展示 {#id-%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83css%E6%A0%B7%E5%BC%8F%E5%88%97%E8%A1%A8-%E8%AF%A6%E6%83%85%E9%A1%B5%E6%97%A0%E8%A1%A8%E5%8D%95%E5%B1%95%E7%A4%BA}
+## 详情页展示 {#id-%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83css%E6%A0%B7%E5%BC%8F%E5%88%97%E8%A1%A8-%E8%AF%A6%E6%83%85%E9%A1%B5%E6%97%A0%E8%A1%A8%E5%8D%95%E5%B1%95%E7%A4%BA}
 
 ![](/assets/999.jpg)
 每个模块放在一个 fieldset中，页面多个 fieldset，标题用 legend
@@ -45,7 +45,7 @@
 </fieldset>
 ```
 
-## 详情页有表单展示![](/assets/99999.bmp) {#id-%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83css%E6%A0%B7%E5%BC%8F%E5%88%97%E8%A1%A8-%E8%AF%A6%E6%83%85%E9%A1%B5%E6%9C%89%E8%A1%A8%E5%8D%95%E5%B1%95%E7%A4%BA}
+## 详情页带表单展示![](/assets/99999.bmp) {#id-%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83css%E6%A0%B7%E5%BC%8F%E5%88%97%E8%A1%A8-%E8%AF%A6%E6%83%85%E9%A1%B5%E6%9C%89%E8%A1%A8%E5%8D%95%E5%B1%95%E7%A4%BA}
 
 ```html
 <fieldset class="details-block">

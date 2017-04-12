@@ -31,15 +31,15 @@
         <div class="form-inline margin-bottom-base">
           <div class="input-group">
             <div class="input-group-addon">长</div>
-            <input type="text" class="form-control input-short">
+            <input type="text" class="form-control">
           </div>
           <div class="input-group">
             <div class="input-group-addon">宽</div>
-            <input type="text" class="form-control input-short">
+            <input type="text" class="form-control">
           </div>
           <div class="input-group">
             <div class="input-group-addon">高</div>
-            <input type="text" class="form-control input-short">
+            <input type="text" class="form-control">
           </div>
           <span>(单位：mm)</span>
         </div>

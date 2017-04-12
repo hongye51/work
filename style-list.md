@@ -29,7 +29,6 @@
 | margin-top-small | margin-top: 4px |
 | margin-bottom-base | margin-bottom: 10px |
 | margin-bottom-small | margin-bottom: 4px |
-| input-short | 设置 input 宽度60px，父元素须有 form-group |
 | text | 用于表单项右侧是文字时样式，父元素须有 form-group |
 | word-count | 用于文本域还可以输入字数样式，父元素须有 form-group |
 | input-operation | 用于表单操作样式，里面有添加删除小图标 |
